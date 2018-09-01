@@ -30,7 +30,7 @@ In this project we will be building a site for a University to keep track of stu
     * This library will allow us to run multiple scripts in a single terminal window.
 * Run `npm start` to spin up the development server <b>AND</b> the `json-server`.
 
-<img src="https://github.com/DevMountain/react-4-afternoon/blob/solution/readme-assets/2.png" />
+<img src="https://github .com/DevMountain/react-4-afternoon/blob/solution/readme-assets/2.png" />
 
 ## Step 1
 
